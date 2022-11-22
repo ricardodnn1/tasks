@@ -10,7 +10,7 @@ class TaskDTO extends DataTransferObject
     /**
      * @var string
      */
-    public $task; 
+    public $name; 
 
     /**
      * @var string
